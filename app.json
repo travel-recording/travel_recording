@@ -4,6 +4,18 @@
     "pages/logs/logs",
     "pages/map/map"
   ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/map/map",
+        "text": "地图"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志"
+      }
+    ]
+  },
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
